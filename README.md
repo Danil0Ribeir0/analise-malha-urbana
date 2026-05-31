@@ -262,6 +262,6 @@ Trabalho Final v2/
 
 ---
 
-## Autor - Danilo Ribeiro
+## Autor - Danilo Ribeiro e Davi de Cerqueira
 
 Projeto Final - Disciplina de Teoria dos Grafos  
